@@ -1,0 +1,4 @@
+- Clean and tokenize the text and save the results to a new file.
+- Split the clean data into train and test datasets.
+- Develop an Embedding + CNN model on the training dataset.
+- Evaluate the model on the test dataset.
